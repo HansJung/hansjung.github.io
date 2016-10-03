@@ -8,5 +8,8 @@ My name is Yonghan Jung, and I am a 1st year Ph.D student in Purdue University.
 
 ### Research interest 
 
+Roughly, I am interesting in Machine learning. Currently, I am searching more specific area that I can involve. As application, I am very interested in healthcare related data, such as EHR record. 
 
 ### Contact me
+
+You can contact me by yhansjung(at)gmail.com. 
