@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Yonghan Jung, and I am a 1st year Ph.D student in Purdue University. 
 
-### More Information
+### Research interest 
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
