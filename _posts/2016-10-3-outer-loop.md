@@ -18,7 +18,7 @@ Shortly, I have
 
 * Strong coding ability 
 * Medium statistics and mathematics ability 
-* Medium-strong application creativity.
+* Strong application creativity.
 
 My surrounding environment has advantages in 
 
@@ -26,6 +26,17 @@ My surrounding environment has advantages in
 * Healthcare. 
 
 Hence, the most wise decision should be entering to the Machine Learning field with industrial engineering methods, such as optimization and simulation. 
+
+In optimization format, it should be like 
+
+$$ 
+\max_{\text{ML_field}}  \text{ matching} (\text{Background, ML_field})  
+\text{  s.t } \\ 
+\begin{cases}
+\text{matching}(\text{ML_field}, \text{IE})  > Z \\
+\text{ML_app} \in \text{HE} 
+\end{cases}
+$$
 
 
 
@@ -35,11 +46,38 @@ Hence, the most wise decision should be entering to the Machine Learning field w
 
 ### Journal lists 
 
-### Conference lists 
+* JMLR 
+
+### Journal and Conference lists 
+
+* JMLR 
+* ICML 
+* AISTAT 
+* NIPS 
+* AAAI 
+* IJCAI 
+* ICLR 
+* MUCMD  
+
+
+### Topics of Invited talks and tutorials 
 
 
 
-## By interesting keywords 
+## By interesting keywords or topics 
+
+### Multi-armed bandit and Bayesian optimization 
+
+
+### Representation learning 
+
+
+### Reinforce learning and MDP 
+
+
+### Kernel learning 
+
+
 
 
 ## By authors 
