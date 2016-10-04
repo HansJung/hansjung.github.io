@@ -3,6 +3,8 @@ layout: post
 title: Welcome to Machine Learning World
 ---
 
+Last updated: 16/10/04
+
 This essay is motivated by the remarkable essay of [http://karpathy.github.io/2016/09/07/phd/](http://karpathy.github.io/2016/09/07/phd/). The part about finding the research topic, described as spiraling outer loop into inner loop. I am inspired by such metaphor. 
 
 This post is a map I am drawing during exploring the Machine Learnign area. As a 1st year Ph.D student, I am obsessed about specifying my research topic. 
