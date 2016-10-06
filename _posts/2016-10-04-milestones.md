@@ -3,10 +3,11 @@ layout: post
 title: Milestones on the course of researching 
 ---
 
-Last updated: 16/10/04
+Last updated: 16/10/06
 
 ## Enumerating to-do 
 
+* QnD review 
 * Specifying my research topic 
 * Read more than two review papers about the field 
 * Implementing the state-or-art algorithm 
@@ -20,6 +21,7 @@ Last updated: 16/10/04
 
 ### 1st year 
 
+* QnD process within 3 years
 * Specifying my research topic 
 * Implementing the state-or-art algorithm 
 * Prepare easy-word explanation and interesting application 

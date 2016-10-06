@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Machine Learning World
 ---
 
-Last updated: 16/10/04
+Last updated: 16/10/06
 
 This essay is motivated by the remarkable essay of [http://karpathy.github.io/2016/09/07/phd/](http://karpathy.github.io/2016/09/07/phd/). The part about finding the research topic, described as spiraling outer loop into inner loop. I am inspired by such metaphor. 
 
@@ -59,25 +59,24 @@ $$
 * AAAI 
 * IJCAI 
 * ICLR 
-* MUCMD  
+* UAI
+* MUCMD (Machine learning in healthcare)
 
 
 ### Topics of Invited talks and tutorials 
 
+#### ICML 
 
+#### AISTAT
 
-## By interesting keywords or topics 
+#### NIPS 
 
-### Multi-armed bandit and Bayesian optimization 
+#### AAAI
 
+#### IJCAI
 
-### Representation learning 
+#### ICLR 
 
-
-### Reinforce learning and MDP 
-
-
-### Kernel learning 
 
 
 
