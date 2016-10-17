@@ -46,13 +46,8 @@ $$
 
 ## Explore by conferences and Journals 
 
-### Journal lists 
-
-* JMLR 
-
 ### Journal and Conference lists 
 
-* JMLR 
 * ICML 
 * AISTAT 
 * NIPS 
