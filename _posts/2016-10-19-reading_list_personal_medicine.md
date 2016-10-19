@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Plan of study - Machine learning and Healthcare
----
 
 Last updated: 16/10/19
 
