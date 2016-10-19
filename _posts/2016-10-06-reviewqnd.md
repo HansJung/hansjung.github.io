@@ -161,6 +161,16 @@ __Zhengping Che et al., Deep Computational Phenotyping, KDD 2016__
 * Deep feedforward approach. 
 * _Keyword_ Physionet, ICU data, Deep learning. 
 
+__* Zitao Liu et al., Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data, KDD 2016__
+
+*  A challenging aspect of constructing the forecasting model is that the model should be flexible and adaptive to reflect well patient-specific temporal behaviors and this also in the case when the available patient-specific data are sparse and short span. 
+*  (1) learns the population trend from a collection of time series for past patients; (2) captures individual-specific short-term multivariate variability; and (3) adapts by automatically adjusting its predictions based on new observations. 
+*  _Keyword_ Linear dynamical model, Multi-task Gaussian Process 
+
+__Jianefi Zhang et al., Survival Prediction by an Integrated Learning Criterion on Intermittently Varying Healthcare data, KDD 2016__ 
+
+* Survival analysis on intermittently varying data by time-varying coefficients of survival model. 
+
 
 
 
@@ -183,15 +193,6 @@ __Marzyeh Ghassemi et al., A Multivariate Timeseries Modeling Approach to Severi
 * MTGP to learn the correlation between and within time-series. 
 * _Keyword_ GP, Multivariate time series learning. 
 
-__* Zitao Liu et al., Learning Adaptive Forecasting Models from Irregularly Sampled Multivariate Clinical Data, KDD 2016__
-
-*  A challenging aspect of constructing the forecasting model is that the model should be flexible and adaptive to reflect well patient-specific temporal behaviors and this also in the case when the available patient-specific data are sparse and short span. 
-*  (1) learns the population trend from a collection of time series for past patients; (2) captures individual-specific short-term multivariate variability; and (3) adapts by automatically adjusting its predictions based on new observations. 
-*  _Keyword_ Linear dynamical model, Multi-task Gaussian Process 
-
-__Jianefi Zhang et al., Survival Prediction by an Integrated Learning Criterion on Intermittently Varying Healthcare data, KDD 2016__ 
-
-* Survival analysis on intermittently varying data by time-varying coefficients of survival model. 
 
 __Peter Schulam et al., Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery, AAAI 2016__
 
