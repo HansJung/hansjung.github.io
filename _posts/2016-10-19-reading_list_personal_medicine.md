@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading list for personal medicine 
+title: Reading list in personal medicine 
 ---
 Last updated: 16/10/19
 
@@ -8,7 +8,17 @@ I am summarized and listed out the reading lists related to personalized medicin
 
 # My special interest 
 
-* 
+* Schulam, P. & Arora, R., 2016. Disease Trajectory Maps. arXiv.org, stat.ML.
+* Johnson, A.E.W. et al., 2016. Machine Learning and Decision Support in Critical Care. Proceedings of the IEEE, 104(2), pp.444–466.
+* Luo, Y. et al., 2016. Predicting ICU Mortality Risk by Grouping Temporal Trends from a Multivariate Panel of Physiologic Measurements. Thirtieth AAAI Conference on ….
+* Yoon, J. et al., ForecastICU: A Prognostic Decision Support System for Timely Prediction of Intensive Care Unit Admission. medianetlab.ee.ucla.edu
+* Choi, E. et al., 2015. Doctor AI: Predicting Clinical Events via Recurrent Neural Networks. arXiv.org, cs.LG.
+* Peter Schulam, F.W.S.S., 2015. Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery. pp.1–9.
+
+
+
+
+
 
 ---
 
@@ -69,7 +79,7 @@ I am summarized and listed out the reading lists related to personalized medicin
 * Gunasekar, S. et al., 2016. Phenotyping using Structured Collective Matrix Factorization of Multi--source EHR Data. arXiv.org, stat.AP.
 * Wulsin, D.F., Fox, E.B. & Litt, B., 2014. Modeling the Complex Dynamics and Changing Correlations of Epileptic Events. arXiv.org, stat.ML, pp.55–75.
 * Schulam, P. & Arora, R., 2016. Disease Trajectory Maps. arXiv.org, stat.ML.
-
+* Li-wei, H.L., Adams, R.P. & Mayaud, L., 2015. A physiological time series dynamics-based approach to patient monitoring and outcome prediction. IEEE journal of ….
 
 # Interesting methodology 
 

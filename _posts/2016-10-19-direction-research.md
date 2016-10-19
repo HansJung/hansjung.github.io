@@ -170,4 +170,24 @@ With EHR data that is including patients' information and biomarkers (physiologi
 
 
 
+## Community 
 
+### Conference: Theory 
+
+* ICML 
+* NIPS
+* AISTAT
+
+### Conference: Application 
+
+* UAI 
+* KDD
+* AAAI
+* IJCAI
+* Machine learning and healthcare
+
+### Conference: Bioinformatics
+
+* CinC 
+* ACM-BCB
+* AMIA 
