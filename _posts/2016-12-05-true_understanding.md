@@ -1,9 +1,8 @@
-__
+---
 layout: post
-title: The Goal (novel)
+title: How do we get to true-understanding? 
 ---
 
-# How do we get to true-understanding? 
 Although being in a research field for 3 years (including my master), it is always very difficult to be self-aware of understanding. Making a clear distinction of ‘feeling’ understanding (a.k.a. fake understanding) and true understanding is very tricky, before you are facing a test related to the subject. Especially, I had a bad habit of confusing ‘fake’ and ‘true’ understanding; many knowledge I felt I understood are turned out to be not mine after being tested. It has been always humiliating to face the situation that I coud not answer the challenging question in the field I told I understood. As a new Ph.D student, it is my obligation to have clear eyes for distinguishng fake understanding and true understanding. 
 
 One who reach to understanding can see patterns and formularize the patterns. Furthermore, one can have a different perspective after understanding. True- undertanding makes people possible to explain the concept with 8-year old kid language regardless of how hard the concept is. In contrast, fake understanding always encourages people to become a hipster, who always wanted to be looked like a genius, but knew nothing in actual. Clear distinction between fake understanding and true understanding is shown in the presentation and discussion. 
